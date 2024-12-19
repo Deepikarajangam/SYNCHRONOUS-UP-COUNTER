@@ -28,7 +28,12 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-/* write all the steps invloved */
+/* write all the steps invloved  
+Compile and run the program.
+Generate the RTL schematic and save the logic diagram.
+Create nodes for inputs and outputs to generate the timing diagram. 
+For different input combinations generate the timing diagram.
+*/
 
 **PROGRAM**
 
